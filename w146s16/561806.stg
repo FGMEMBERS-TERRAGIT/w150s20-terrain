@@ -1,0 +1,5 @@
+OBJECT_BASE 561806.btg
+OBJECT NTKA.btg
+OBJECT_SHARED Models/Airport/windsock.xml -145.130011 -15.780302 5.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -145.124578 -15.779728 4.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -145.135524 -15.779992 4.1 0.00
